@@ -1,0 +1,11 @@
+
+Download dataset of ultra-marathon running:
+
+https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/discussion/420633
+
+
+The following project uses Pandas and Seaborn libraries.
+
+You will have to upload the dataset add those libraries to your jupyter notebook.
+
+Go to Files --> Upload --> Select the file and upload
